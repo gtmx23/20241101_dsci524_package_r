@@ -25,7 +25,7 @@ You can install the development version of regexcite from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("gtmx23/regexcite524gretel")
+devtools::install_github("gtmx23/20241101_dsci524_package_r")
 ```
 
 ## Usage
